@@ -111,7 +111,7 @@ export default function Home() {
           <Typography.Title level={3} className='font-medium mb-10 text-center'>
             Know Us
           </Typography.Title>
-          <Missions data={dataSite.info} gridColumns={1} variant='card' />
+          <Missions data={dataSite.info} gridColumns={1} variant='text' />
         </div>
 
         <div className='flex flex-col' id='references'>
@@ -127,7 +127,7 @@ export default function Home() {
             }}
             variantItem='text'
             variant='carousel'
-            backgroundColor='#BFF1EB'
+            backgroundColor='#C9FFDF'
             references={dataSite.references}
             gridColumns={2}
             titleAlign='center'
