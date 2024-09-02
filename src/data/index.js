@@ -10,7 +10,7 @@ export const makeClearBackground = (color) => {
 export const navData = [
   {
     href: '/#products',
-    label: "Let's start!",
+    label: 'Our Courses',
   },
   {
     href: '/#our-services',
@@ -19,6 +19,10 @@ export const navData = [
   {
     href: '/#references',
     label: 'References',
+  },
+  {
+    href: '/#know-us',
+    label: 'Know Us',
   },
 ];
 
