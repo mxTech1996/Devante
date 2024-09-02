@@ -1,14 +1,11 @@
-
-export const pageName = "Devante";
-export const primaryColor = "#000000";
-export const backgroundColor = "#FFFFFF";
+export const pageName = 'Devante';
+export const primaryColor = '#3A6C5C';
+export const backgroundColor = '#FFFFFF';
 export const makeClearBackground = (color) => {
   return {
     backgroundColor: color,
-  }
-}
-
-
+  };
+};
 
 export const navData = [
   {
