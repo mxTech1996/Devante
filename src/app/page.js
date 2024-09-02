@@ -127,7 +127,7 @@ export default function Home() {
             }}
             variantItem='text'
             variant='carousel'
-            backgroundColor='#C9FFDF'
+            backgroundColor='#80A18D'
             references={dataSite.references}
             gridColumns={2}
             titleAlign='center'
